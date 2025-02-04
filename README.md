@@ -4,7 +4,7 @@
 An interactive dashboard analyzing salary trends for data jobs using charts, formulas, and data validation. It highlights salary variations by role, location, and job type, helping job seekers make informed decisions.
 [Check out my work here](Project_1_Dashboard)
 
-<img src="https://github.com/user-attachments/assets/17462f29-2f5f-4240-aa32-0bbd8877540a" width="1000" height="600"/>
+<img src="https://github.com/user-attachments/assets/17462f29-2f5f-4240-aa32-0bbd8877540a" width="1000" height="500"/>
 
 ## Project 2: Data Job Market Analysis
 A deep dive into salary factors using Power Query, PivotTables, and DAX. It explores the impact of skills on pay, regional salary differences, and the most valuable skills like Python and SQL for high-paying roles.
