@@ -9,7 +9,7 @@ This interactive salary insights dashboard was designed to assist professionals 
 The data is from Luke Barousse Excel Course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in [1_Salary_Dashboard.xlsx](Project_1_Dashboard/1_Salary_Dashboard.xlsx).
+My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
 
 ### Excel Skills Used
 
