@@ -1,6 +1,6 @@
 # My Excel Data Analytics Projects
 
-## Project 1: Data Jobs Dashboard
+## Project 1: Salary Dashboard
 An interactive dashboard analyzing salary trends for data jobs using charts, formulas, and data validation. It highlights salary variations by role, location, and job type, helping job seekers make informed decisions.
 [Check out my work here](Project_1_Dashboard)
 
